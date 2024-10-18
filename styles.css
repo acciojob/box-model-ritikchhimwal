@@ -23,19 +23,19 @@ body {
 	gap: 20px;
 	padding: 5px;
 }
-#green{
+.green{
 	height: 80px;
 	width: 80px;
 	border-radius: 50px;
 	background-color: green;
 }
-#yellow{
+.yellow{
 	height: 80px;
 	width: 80px;
 	border-radius: 50px;
 	background-color: yellow;
 }
-#red{
+.red{
 	height: 80px;
 	width: 80px;
 	border-radius: 50px;
